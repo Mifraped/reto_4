@@ -1,1 +1,2 @@
 # reto_4
+Lo que ocurre es que he puesto el nombre de la carpeta "retos_2y3" en el archivo .gitignore, con lo cual, aunque esta carpeta este dentro del repositorio local, si yo subo el proyecto al repositorio remoto, Git lo ignora
